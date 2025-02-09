@@ -1,0 +1,9 @@
+<!-- JSON.stringify -->
+
+<!-- // Local Strong can only stored in "string" , so when to stored a complex data structured like array or object , you need to convert into a string using * JSON.stringify * -->
+
+<!-- JSON.parse -->
+
+<!-- Convert JSON string into a original form like (Object or Array) -->
+
+<!-- *************************************************************************************** -->
